@@ -191,8 +191,7 @@ The final dashboard provides an interactive overview of Formula 1 driver and con
 
 <!-- Add your dashboard screenshot here -->
 
-[F1 Driver Performance Dashboard](Dashboard/dashboard_overview.png)
-
+![Dashboard Overview](dashboard_overview.png)
 The dashboard is designed to help users explore performance indicators, compare drivers and identify competitive trends across the 2022–2024 seasons.
 
 **Power BI Report:** 
